@@ -160,5 +160,6 @@ export default {
 ```
 即可，引入你svg存放的路径
  
+ ![](https://github.com/SynChron1zed/AntMobileDemo/raw/master/ReadmeImg/QQ5.png)
 
 
