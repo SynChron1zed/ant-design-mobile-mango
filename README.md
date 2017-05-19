@@ -15,6 +15,4 @@ $ dva -v<br>
 ### 创建新应用
 $ dva new name(项目名称，文后统一称为根目录)<br>
 
-这里我们可以通过终端创建项目目录也可通过idea创建<br>
-创建完成后如显示如下
- https://github.com/SynChron1zed/AntMobileDemo/raw/master/ReadmeImg/QQ1
+![](https://github.com/SynChron1zed/AntMobileDemo/raw/master/ReadmeImg/QQ1.png)
