@@ -13,7 +13,7 @@ function IndexPage() {
                 <Icon key="0" type="search" style={{ marginRight: '0.32rem' }} />,
                 <Icon key="1" type="ellipsis" />,
               ]}
-      >NavBar</NavBar>
+      >bbbbb</NavBar>
       <Icon type={require('../assets/icon-core/adduser.svg')} />
     </div>
   );
