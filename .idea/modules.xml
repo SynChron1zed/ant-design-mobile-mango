@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AntMobileDemo.iml" filepath="$PROJECT_DIR$/.idea/AntMobileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ant-design-mobile-mango.iml" filepath="$PROJECT_DIR$/.idea/ant-design-mobile-mango.iml" />
     </modules>
   </component>
 </project>
