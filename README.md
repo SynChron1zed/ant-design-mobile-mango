@@ -6,11 +6,9 @@ dva 是一个基于 react 和 redux 的轻量应用框架，概念来自 elm，�
 本文会引导你使用 dva 和 antd 从 0 开始创建一个简单应用。
 
 ### 安装 dva-cli
-通过 npm 安装 dva-cli 并确保版本是 0.7.0 或以上。
+通过 npm 安装 dva-cli 并确保版本是 0.7.0 或以上(windos用户需要配置nodejs环境)。<br>
 
 $ npm install dva-cli -g<br>
-$ dva -v<br>
-0.7.0<br>
 
 ### 创建新应用
 $ dva new name(项目名称，文后统一称为根目录)<br>
@@ -21,7 +19,7 @@ $ dva new name(项目名称，文后统一称为根目录)<br>
 
 这样我们基础环境就搭建好了，现在我们进入刚搭建的目录里面，引用ant-mobile<br>
 
-$ cd dva-quickstart<br>
+$ cd name(项目名称，文后统一称为根目录),这里我们创建的目录为`AntMobileDemo`<br>
 $ npm start<br>
 
 ![](https://github.com/SynChron1zed/AntMobileDemo/raw/master/ReadmeImg/QQ2.png)
