@@ -3,8 +3,6 @@ import { connect } from 'dva';
 import styles from './IndexPage.css';
 import { NavBar, Icon } from 'antd-mobile';
 
-
-
 function IndexPage() {
   return (
     <div>
