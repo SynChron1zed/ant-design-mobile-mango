@@ -1,5 +1,5 @@
 # ant-design-mobile
-##### @以下主要思想和内容摘自[antd-mobile](https://mobile.ant.design/index-cn)官方文档，具体操作流程以官方文档为主，本文只做参考
+##### @以下主要思想和内容摘自[antd-mobile](https://mobile.ant.design/index-cn)官方文档，具体操作流程以官方文档为主，本文只做参考（交流qq群 575537361）
 
 ## 项目实战
 dva 是一个基于 react 和 redux 的轻量应用框架，概念来自 elm，支持 side effects、热替换、动态加载、react-native、SSR 等，已在生产环境广泛应用。
