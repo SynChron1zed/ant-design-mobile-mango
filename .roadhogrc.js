@@ -50,7 +50,9 @@ export default {
 
   svgSpriteLoaderDirs: svgSpriteDirs,
 
-  "theme": "./theme.js"
+  // 配置主题 暂时屏蔽 需要配置打开
+ // "theme": "./theme.js"
+
 
 }
 
