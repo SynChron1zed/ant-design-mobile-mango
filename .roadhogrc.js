@@ -16,21 +16,24 @@ export default {
 
 
   "entry": "src/index.js",
+
+
   "env": {
     "development": {
       "extraBabelPlugins": [
         "dva-hmr",
         "transform-runtime",
-        ["import", { "libraryName": "antd-mobile", "style": "css" }]
+        ["import", { "libraryName": "antd-mobile", "style":true }]
       ]
     },
     "production": {
       "extraBabelPlugins": [
         "transform-runtime",
-        ["import", { "libraryName": "antd-mobile", "style": "css" }]
+        ["import", { "libraryName": "antd-mobile", "style":true }]
       ]
     }
   },
+
 
   "autoprefixer": {
     "browsers": [
@@ -44,6 +47,14 @@ export default {
       propWhiteList: [],
     }),
   ],
+
   svgSpriteLoaderDirs: svgSpriteDirs,
+
+  "theme": "./theme.js"
+
 }
+
+
+
+
 
